@@ -1,3 +1,0 @@
-Hello World from my local computer.
-
-This file was created in my personal laptop and it's going to be sended to my remote server.
